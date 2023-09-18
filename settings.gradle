@@ -1,0 +1,2 @@
+rootProject.name = 'angular-spring-boot-gradle'
+include 'angular-16'
